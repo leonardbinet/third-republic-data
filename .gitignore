@@ -1,0 +1,9 @@
+*.cpg
+*.dbf
+*.prj
+*.shx
+*.shp
+*.qmd
+
+.DS_Store
+.idea
